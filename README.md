@@ -1,4 +1,4 @@
-<p align="center">Projeto desenvolvido na Semana OmniStack 6, da Rocketseat.</p>
+## <p align="center">Projeto desenvolvido na Semana OmniStack 6, da Rocketseat.</p>
 
 ## Sobre
 
